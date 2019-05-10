@@ -1,0 +1,16 @@
+C:\Users\Aldi\Desktop\SpeechToText\SpeechToText\bin\Debug\SpeechToText.exe
+C:\Users\Aldi\Desktop\SpeechToText\SpeechToText\bin\Debug\SpeechToText.pdb
+C:\Users\Aldi\Desktop\SpeechToText\SpeechToText\obj\x86\Debug\SpeechToText.csprojAssemblyReference.cache
+C:\Users\Aldi\Desktop\SpeechToText\SpeechToText\obj\x86\Debug\MainWindow.baml
+C:\Users\Aldi\Desktop\SpeechToText\SpeechToText\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Aldi\Desktop\SpeechToText\SpeechToText\obj\x86\Debug\App.g.cs
+C:\Users\Aldi\Desktop\SpeechToText\SpeechToText\obj\x86\Debug\SpeechToText_MarkupCompile.cache
+C:\Users\Aldi\Desktop\SpeechToText\SpeechToText\obj\x86\Debug\SpeechToText.g.resources
+C:\Users\Aldi\Desktop\SpeechToText\SpeechToText\obj\x86\Debug\SpeechToText.csproj.CoreCompileInputs.cache
+C:\Users\Aldi\Desktop\SpeechToText\SpeechToText\obj\x86\Debug\SpeechToText.exe
+C:\Users\Aldi\Desktop\SpeechToText\SpeechToText\obj\x86\Debug\SpeechToText.pdb
+C:\Users\Aldi\Desktop\SpeechToText\SpeechToText\bin\Debug\example
+C:\Users\Aldi\Desktop\SpeechToText\SpeechToText\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Aldi\Desktop\SpeechToText\SpeechToText\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Aldi\Desktop\SpeechToText\SpeechToText\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Aldi\Desktop\SpeechToText\SpeechToText\obj\x86\Debug\SpeechToText.csproj.CopyComplete

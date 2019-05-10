@@ -1,0 +1,12 @@
+﻿-- format
+-- [text to recognize] | [text to display or execute] | [is text a command?]
+
+-- simple text --
+A|kamu mengatakan "A"|false
+bau|kamu mengatakan "BA"|false
+bi|kamu mengatakan "BI"|false
+do|kamu mengatakan "do"|false
+
+
+
+

@@ -1,0 +1,1 @@
+Sebelum mengirim data melalui socket harap ubah terlebih dahulu ip yang berada di MainWindows.xaml.cs ke ip yang akan menerima data dari socket.
